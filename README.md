@@ -14,5 +14,5 @@ flowchart TD;
 - [YouTube Video]() for both JavaScript splice project examples
 
 
-### Rferences
+### References
 - [MDN JS splice method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
