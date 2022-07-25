@@ -7,7 +7,7 @@ JavaScript resources and source codes for videos on [Code with Neck](https://www
 - :+1: [Twitter](https://twitter.com/Nechir89)
 
 ### support auther
-- :fire: [buy me a coffee](https://www.buymeacoffee.com/neck)
+- :hand: [buy me a coffee](https://www.buymeacoffee.com/neck)
 ### Resources Graph
 
 ```mermaid
