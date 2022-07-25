@@ -12,3 +12,7 @@ flowchart TD;
 - JavaScript **splice** array function: [project example one](https://github.com/Nechir-89/spliceExample1) 
 - JavaScript **splice** array function: [project example two](https://github.com/Nechir-89/spliceExample2)
 - [YouTube Video]() for both JavaScript splice project examples
+
+
+### Rferences
+- [MDN JS splice method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
