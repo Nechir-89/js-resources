@@ -3,11 +3,10 @@ JavaScript resources and source codes for videos on [Code with Neck](https://www
 
 
 ### Find more about author
+- :hand: [buy me a coffee](https://www.buymeacoffee.com/neck)
 - :bell: [YouTube](https://www.youtube.com/channel/UC-5HS-AeihwNU6s8tCVWuVw): Code with Neck
 - :+1: [Twitter](https://twitter.com/Nechir89)
-
-### support auther
-- :hand: [buy me a coffee](https://www.buymeacoffee.com/neck)
+- :v: [Linkedin](https://www.linkedin.com/in/neck2019/)
 ### Resources Graph
 
 ```mermaid
