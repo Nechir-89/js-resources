@@ -1,10 +1,16 @@
 ### JS resources
 JavaScript resources and source codes for videos on [Code with Neck](https://www.youtube.com/channel/UC-5HS-AeihwNU6s8tCVWuVw) :tv: YouTube channel.
 
+
+### Find more about author
+- :blue_heart: [Twitter](https://twitter.com/Nechir89)
+
+### Resources Graph
+
 ```mermaid
 flowchart TD;
-  id1{{js-resources repository}}-->id2(splice: project Example One);
-  id1{{js-resources repository}}-->id3(splice: project Example Two);
+  id1{{js-resources repository}}-.->id2(splice: project Example One);
+  id1{{js-resources repository}}-.->id3(splice: project Example Two);
 ```
 
 
