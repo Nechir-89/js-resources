@@ -7,13 +7,6 @@ JavaScript resources and source codes for videos on [Code with Neck](https://www
 - :bell: [YouTube](https://www.youtube.com/channel/UC-5HS-AeihwNU6s8tCVWuVw): Code with Neck
 - :+1: [Twitter](https://twitter.com/Nechir89)
 - :v: [Linkedin](https://www.linkedin.com/in/neck2019/)
-### Resources Graph
-
-```mermaid
-flowchart TD;
-  id1{{js-resources repository}}-.->id2(splice: project Example One);
-  id1{{js-resources repository}}-.->id3(splice: project Example Two);
-```
 
 
 ### Resources
@@ -21,6 +14,13 @@ flowchart TD;
 - JavaScript **splice** array function: [project example two](https://github.com/Nechir-89/spliceExample2)
 - [YouTube Video]() for both JavaScript splice project examples
 
+### Resources Graph
+```mermaid
+flowchart TD;
+  id1{{js-resources repository}}-.->id2(splice: project Example One);
+  id1{{js-resources repository}}-.->id3(splice: project Example Two);
+```
+
 
 ### References
-- [MDN JS splice method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+- :book: [MDN JS splice method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
